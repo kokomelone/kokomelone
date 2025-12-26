@@ -1,16 +1,30 @@
-## Hi there 👋
+## About
 
-<!--
-**kokomelone/kokomelone** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Electronics and Communication Engineering student with an interest in
+software-driven problem solving and backend-focused projects.
 
-Here are some ideas to get you started:
+Currently working on:
+- Data Structures and Algorithms in Python
+- Backend development using Flask
+- Applying software tools to real-world problem statements
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## Featured Project
+
+**Medicine Alternative Finder**  
+A backend-focused application that identifies equivalent medicines
+based on salt composition and compares their prices.
+
+Tech: Python, Flask, Pandas
+
+---
+
+## Repositories
+
+- `medicine-alternative-finder`
+- `dsa-python-patterns`
+- ECE-related coursework and experiments
+
+
+
