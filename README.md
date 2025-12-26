@@ -12,19 +12,24 @@ Currently working on:
 
 ## Featured Project
 
-**Medicine Alternative Finder**  
-A backend-focused application that identifies equivalent medicines
-based on salt composition and compares their prices.
-
-Tech: Python, Flask, Pandas
-
+**4-bit NMOS Full Adder**  
+Transistor-level implementation of a 4-bit adder using discrete NMOS logic
+without ICs.
 ---
+**Medicine Alternative Finder**  
+Backend-focused application for identifying equivalent medicines and
+comparing prices using large datasets.
+---
+**Arduino Gaming Controller**  
+Embedded system using joystick input and serial communication to simulate
+keyboard controls.
 
 ## Repositories
 
+- `4-bit-nmos-full-adder`
 - `medicine-alternative-finder`
-- `dsa-python-patterns`
-- ECE-related coursework and experiments
+- `arduino-gaming-controller`
+- CS-related coursework and experiments
 
 
 
