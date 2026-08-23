@@ -22,7 +22,7 @@ I enjoy building practical projects that combine programming, data, and engineer
 ## Technologies & Tools
 
 ### Languages
-`Python` `C++` `C` `MATLAB`
+`Python` `C++` `C` `MATLAB` `MYSQL`
 
 ### Development
 `Flask` `HTML` `CSS` `Git` `GitHub`
